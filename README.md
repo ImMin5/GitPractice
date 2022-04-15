@@ -2,6 +2,10 @@
 Tips for Git
 
 
+## 원격 브랜치 가져오기
+```
+git checkout -t origin/feature/openapi
+```
 ## git ignore 적용 안될때 
 ```
  git rm -r --cached .
