@@ -1,6 +1,12 @@
 # GitPractice
 Tips for Git
 
+## git 저장소 다시 연결하기
+```
+git remote remove origin
+git remote add origin '깃주소.git'
+git remote -v 로 확인
+```
 
 ## 원격 브랜치 가져오기
 ```
